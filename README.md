@@ -30,3 +30,9 @@ Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classif
 
 Hierarchical Attention Prototypical Networks for Few-Shot Text Classification (EMNLP 2019)
 
+2. Learing the initializations
+
+3. Learning the optimizer
+
+
+
