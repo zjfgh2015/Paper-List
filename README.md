@@ -35,4 +35,12 @@ Hierarchical Attention Prototypical Networks for Few-Shot Text Classification (E
 3. Learning the optimizer
 
 
+4. Unsupervised Meta Learning
+
+Learning Unsupervised Learning Rules
+
+Unsupervised Learning via Meta Learning (ICLR 2019)
+
+
+
 
